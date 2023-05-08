@@ -17,7 +17,7 @@ steps:
     subscriptionId: '4ccb9431-8866-450b-869f-32a53c250f7f'
     action: 'Create Or Update Resource Group'
     resourceGroupName: 'frhlpipes'
-    location: 'West US 2'
+    location: 'Central US'
     templateLocation: 'URL of the file'
     # csmFileLink: 'https://raw.githubusercontent.com/FreeheelGreg/frhlpipes-repo/main/create_web_app/azuredeploy.json?token=GHSAT0AAAAAACCKTUBD5M7YVPGBIKENZ2HKZCXX6PA'
     csmFileLink: 'https://raw.githubusercontent.com/FreeheelGreg/frhlpipes-repo/main/create_web_app/azuredeploy.json'
